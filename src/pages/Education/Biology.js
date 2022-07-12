@@ -3,7 +3,7 @@ import '../../components/model.css'
 import Models from '../../components/Models';
 
 const Biology = () => {
-     const models=["/assets/education/biology/skull"];
+     const models=["/assets/education/biology/skull","/assets/education/biology/skull"];
      
   return (
       <div className='wrap'>
